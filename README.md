@@ -1,2 +1,2 @@
-# ximena
-ximena2
+# Electiva
+Repositorio con recursos para la clase electiva
